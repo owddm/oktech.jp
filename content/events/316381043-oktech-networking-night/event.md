@@ -2,7 +2,7 @@
 title: OKTech Networking Night
 dateTime: 2026-10-30 18:30
 duration: 150
-cover: ./990093.webp
+cover: ./008164.webp
 topics:
   - Community Building
   - Computer Programming
